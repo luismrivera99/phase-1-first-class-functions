@@ -1,0 +1,3 @@
+receivesAFunction(() => {
+    console.log();
+});
